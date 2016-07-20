@@ -1,0 +1,22 @@
+/* Escribe aqui tu CSS */
+*	{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+div	{
+	border: 15px solid #fdf733;
+	margin: 5px;
+	width: 20%;
+	padding: 40px;
+}
+
+.izquierda	{
+	text-align: center;
+
+}
+
+.derecha	{
+	margin: 0 auto;
+}
