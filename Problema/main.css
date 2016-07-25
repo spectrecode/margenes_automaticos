@@ -1,22 +1,15 @@
-/* Escribe aqui tu CSS */
-*	{
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
+.bloque {
+	width: 200px;
+	border: 20px solid #FDF733;
+	padding: 20px;
 }
 
-div	{
-	border: 15px solid #fdf733;
-	margin: 5px;
-	width: 20%;
-	padding: 40px;
-}
-
-.izquierda	{
+.bloque p {
+	font-size: 1em;
 	text-align: center;
 
 }
 
-.derecha	{
-	margin: 0 auto;
+#dos {
+	margin: 0px auto;
 }
